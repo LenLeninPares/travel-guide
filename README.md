@@ -1,6 +1,20 @@
 # travel-guide
 
-🍜 Local Snacks & Food Tips
+�️ Best Season to Visit
+
+The best time to visit the Philippines is during the dry season, from **November to April**, when you can enjoy:
+
+- **Clear skies and sunny days** — Perfect for beach activities, hiking, and outdoor exploration
+- **Comfortable temperatures** — Around 25-30°C (77-86°F), ideal for sightseeing
+- **Lower humidity** — Much more pleasant compared to the rainy season
+- **Fewer typhoons** — The typhoon season runs from June to October, so this period is safest
+- **Water activities** — Calm seas make diving, snorkeling, and island hopping excellent
+
+**Peak Season (December-January):** This is the busiest time with higher prices and crowded attractions. Book accommodations in advance!
+
+**Shoulder Season (February-April):** Great weather with fewer crowds than December-January. March-April can get hot but remains dry and sunny.
+
+�🍜 Local Snacks & Food Tips
 
 Branch: add-food-tips | Contributor: Partner A (Food Branch)
 
